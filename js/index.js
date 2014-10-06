@@ -2,7 +2,7 @@
 
   schedule = [
     ['L1',  30, new Date('2014-10-01T23:59:59'), '<a href="L1.html">L1: Command Line</a>'],
-    ['L2',  80, new Date('2014-10-08T23:59:59'), '<a href="L2.html">L2: Expressions</a>'],
+    ['L2',  80, new Date('2014-10-10T23:59:59'), '<a href="L2.html">L2: Expressions</a>'],
     ['L3',  40, new Date('2014-10-15T23:59:59'), '<a href="L3.html">L3: Algorithms</a>'],
     ['E1', 200, new Date('2014-10-20T13:10:00'), '<a href="E1.html">E1: Exam 1</a>'],
     ['L4',  40, new Date('2014-10-22T23:59:59'), '<a href="L4.html">L4: Functions</a>'],
